@@ -1,2 +1,7 @@
-# jasper-cmdpp
-Jasper is a Command++ plugin that allows you to launch a web browser with a query just from the CLI.
+# Jasper
+
+Jasper opens a web browser for quick searches from Command++.
+
+Commands:
+- jasper
+- jasper search <query>

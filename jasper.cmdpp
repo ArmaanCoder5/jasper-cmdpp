@@ -1,0 +1,12 @@
+format = 1
+
+id = "jasper"
+name = "Jasper"
+version = "0.1.0"
+entry = "jasper.main:register"
+min_cmdpp = "0.1.2"
+
+description = "Jasper browser opener for quick searches."
+author = "Armaan"
+commands = ["jasper", "jasper.search"]
+capabilities = ["network"]
